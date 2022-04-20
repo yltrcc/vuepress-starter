@@ -3,7 +3,7 @@ import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "主题演示",
+  title: "yltrcc的公开知识库",
   description: "vuepress-theme-hope 的演示",
 
   base: "/vuepress-starter/",
