@@ -4,6 +4,7 @@ export default defineNavbarConfig([
   "/",
   "/home",
   { text: "使用指南", icon: "creative", link: "/guide/" },
+  { text: "测试", icon: "creative", link: "/ceshi/" },
   {
     text: "博文",
     icon: "edit",
