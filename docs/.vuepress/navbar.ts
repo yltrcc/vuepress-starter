@@ -50,4 +50,9 @@ export default defineNavbarConfig([
     icon: "note",
     link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
+  {
+    text: "迭代历史",
+    icon: "time",
+    link: "/history/",
+  },
 ]);
