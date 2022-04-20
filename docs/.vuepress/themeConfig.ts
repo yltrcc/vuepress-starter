@@ -24,7 +24,7 @@ export default defineThemeConfig({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "主题：vuepress-theme-hope",
 
   displayFooter: true,
 

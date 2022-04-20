@@ -2,17 +2,7 @@ import {defineSidebarConfig} from "vuepress-theme-hope";
 
 export default defineSidebarConfig({
         '/guide/':"structure",
-        '/vuepress-config/':[
-            "/",
-            "/home",
-            "/slide",
-            {
-                text: "如何使用",
-                icon: "creative",
-                prefix: "/guide/",
-                link: "/guide/",
-                children: "structure",
-            },
+        '/posts/':[
             {
                 text: "文章",
                 icon: "note",
